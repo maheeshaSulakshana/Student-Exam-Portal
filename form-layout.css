@@ -1,0 +1,110 @@
+@import url('bootstrap.css');
+
+label {
+    position: relative;
+    top: 30px;
+    left: 580px;
+    font-size: 20px;
+}
+
+input {
+    position: relative;
+    top: 30px;
+    font-size: 20px;
+}
+
+#calculate {
+    position: relative;
+    top: 30px;
+    left: 757px;
+}
+
+#submit {
+    position: relative;
+    top: 40px;
+    left: 767px;
+}
+
+#reset {
+    position: relative;
+    top: 4px;
+    left: 920px;
+}
+
+#edit {
+    position: relative;
+    left: 1000px;
+    bottom: 64px;
+}
+
+#btn-getDetails{
+    position: relative;
+    left: 895px;
+    bottom: 567px;
+}
+
+div {
+    text-align: center;
+}
+
+#student-name{
+    position: relative;
+    top: 30px;
+    left: 620px;
+    width: 233px;
+    height: 33px;
+}
+
+#religion{
+    left: 675px;
+}
+
+#english{
+    left: 684px;
+}
+
+#maths{
+    left: 691px;
+}
+
+#science{
+    left: 679px;
+}
+
+#ICT{
+    left: 717px;
+}
+
+#commerce{
+    left: 650px;
+}
+
+#art{
+    left: 720px;
+}
+
+#sinhala{
+    left: 683px;
+}
+
+#history{
+    left: 684px;
+}
+
+#lbltotal{
+    top: 35px;
+}
+
+#total{
+    top: 35px;
+    left: 705px;
+}
+
+#lblaverage{
+    top: 35px;
+}
+
+#average{
+    top: 35px;
+    left: 675px;
+}
